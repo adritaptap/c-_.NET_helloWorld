@@ -14,3 +14,4 @@ project Hello World in c# and .NET
 + __ensemble unifié de bibliothèques de classes:__
 + __compilation du code:__ code source c# -> compliation langage intermediaire conforme au CLI -> stocka du LI + bitmap et chaine dans un fichier assembly (.exe || .dll) (+ manifeste contient type, vesion, culture et condition de securité).
 + __execution:__ programme C# -> Assembly + bitmap sont chargé par le CLR -> check manifste + exigence sécurité -> CLR -> comilation Just In Time JIT (LI -> instruction machine native || code managé) + gestion memoire, resource, exeption 
+https://docs.google.com/presentation/d/1MReQwD0LUasC6QYdlk3CvOcH-yXpR5hJyjc7bUp-wsM/edit?usp=sharing
