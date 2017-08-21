@@ -10,3 +10,7 @@ project Hello World in c# and .NET
 + __accès direct à la mémoire:__ 
 + __propriété:__ comme un getter pour une variable privé.
 + __expressions LINQ:__ fournit des fonctions de requête intégrées sur diverses sources de données.
++ __Common Language Runtime (CLR):__   Common Language Infrastructure (CLI), une norme internationale qui sert de base pour la création d’environnements de développement et d’exécution dans lesquels les langages et bibliothèques fonctionnent ensemble en toute transparence
++ __ensemble unifié de bibliothèques de classes:__
++ __compilation du code:__ code source c# -> compliation langage intermediaire conforme au CLI -> stocka du LI + bitmap et chaine dans un fichier assembly (.exe || .dll) (+ manifeste contient type, vesion, culture et condition de securité).
++ __execution:__
