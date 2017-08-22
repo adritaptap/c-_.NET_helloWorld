@@ -4,7 +4,7 @@ project Hello World in c# and .NET
 ## vocabulaire
 
 + __types valeur Nullable:__
-+ __ typage de valeur:__ en ref les variables sont definies à la volé et donc l'allocation de la mémoire ne sera pas la même
++ __typage de valeur:__ en ref les variables sont definies à la volé et donc l'allocation de la mémoire ne sera pas la même
 + __énumérations:__
 + __délégués:__ signatures de méthode encapsulées appelées pour activer des événement de notificcations de type securité
 + __expressions lambda:__
